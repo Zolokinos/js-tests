@@ -1,4 +1,5 @@
 "use strict"
 alert("Я JavaScript!");
-num = 5;
-alert(num);
+let num = 5;
+let num_2 = num;
+alert(num_2);
